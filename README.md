@@ -1,6 +1,4 @@
 # Angular2Practice
-step1
-  npm install
+step1:npm install
 
-step2
-  npm start
+step2:npm start
